@@ -8,10 +8,24 @@ using System.Text;
 namespace wcf_chat
 {
     // ПРИМЕЧАНИЕ. Можно использовать команду "Переименовать" в меню "Рефакторинг", чтобы изменить имя интерфейса "IService_Chat" в коде и файле конфигурации.
-    [ServiceContract]
+    [ServiceContract(CallbackContract = typeof(IServerChatCallback))]
     public interface IService_Chat
     {
         [OperationContract]
-        void DoWork();
+        int Connect();
+
+        [OperationContract]
+        void Disconnect(int id);
+
+        [OperationContract(IsOneWay = true)]
+        void SendMsg(string msg);
+
+    }
+
+    public interface IServerChatCallback
+    {
+        [OperationContract]
+        void MsgCallback(string msg);
+
     }
 }
