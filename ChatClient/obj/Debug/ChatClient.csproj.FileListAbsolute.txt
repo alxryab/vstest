@@ -1,0 +1,16 @@
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\App.g.cs
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+F:\Study\Practice\C#\WCF\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb

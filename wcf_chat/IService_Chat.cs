@@ -12,19 +12,19 @@ namespace wcf_chat
     public interface IService_Chat
     {
         [OperationContract]
-        int Connect();
+        int Connect(string name);
 
         [OperationContract]
         void Disconnect(int id);
 
         [OperationContract(IsOneWay = true)]
-        void SendMsg(string msg);
+        void SendMsg(string msg, int id);
 
     }
 
     public interface IServerChatCallback
     {
-        [OperationContract]
+        [OperationContract(IsOneWay = true)]
         void MsgCallback(string msg);
 
     }

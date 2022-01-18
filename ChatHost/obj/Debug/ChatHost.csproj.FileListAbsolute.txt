@@ -1,0 +1,12 @@
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\ChatHost.exe
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\ChatHost.pdb
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll.config
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.exe
+F:\Study\Practice\C#\WCF\wcf_chat\ChatHost\obj\Debug\ChatHost.pdb
